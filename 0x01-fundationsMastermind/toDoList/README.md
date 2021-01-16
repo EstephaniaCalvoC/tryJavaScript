@@ -2,7 +2,7 @@
 
 A command line program to list task and mark when they are done.
 
-## Install in Ubuntu
+## Install - Ubuntu
 - **📢:** You must install node and npm.
 1. Clone this repo: 
     ```bash
